@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPratice", "TDDPratice.csproj", "{C33E53DC-005E-4451-8C35-84F1031B2212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice.Test", "..\TDDPractice.Test\TDDPractice.Test.csproj", "{C1450726-7DA9-4E50-ACB3-79C1FB295804}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C33E53DC-005E-4451-8C35-84F1031B2212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C33E53DC-005E-4451-8C35-84F1031B2212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C33E53DC-005E-4451-8C35-84F1031B2212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1450726-7DA9-4E50-ACB3-79C1FB295804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1450726-7DA9-4E50-ACB3-79C1FB295804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1450726-7DA9-4E50-ACB3-79C1FB295804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1450726-7DA9-4E50-ACB3-79C1FB295804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
