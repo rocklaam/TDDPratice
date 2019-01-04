@@ -20,7 +20,7 @@ namespace TDDPratice.Utilities
 			throw new NotImplementedException();
 		}
 
-		public static long GetAverage(List<List<long>> input, int lineNumber)
+		public static double GetAverage(List<List<long>> input, int lineNumber)
 		{
 			throw new NotImplementedException();
 		}

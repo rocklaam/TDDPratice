@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPratice", "TDDPratice.csproj", "{C33E53DC-005E-4451-8C35-84F1031B2212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice.Test", "..\TDDPractice.Test\TDDPractice.Test.csproj", "{C1450726-7DA9-4E50-ACB3-79C1FB295804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TDDPractice.Test", "..\TDDPractice.Test\TDDPractice.Test.csproj", "{C1450726-7DA9-4E50-ACB3-79C1FB295804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

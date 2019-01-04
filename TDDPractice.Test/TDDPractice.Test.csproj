@@ -35,6 +35,15 @@
     <None Update="TestFiles\Space file.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="TestFiles\1EmptyLine.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\MultipleResults.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="TestFiles\SumOver8Ditgits.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="TestFiles\ValidFile.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

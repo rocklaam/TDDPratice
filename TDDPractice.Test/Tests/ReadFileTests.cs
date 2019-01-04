@@ -2,11 +2,18 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using TDDPratice.Exceptions;
 using TDDPratice.Utilities;
 
-namespace TDDPractice.Test
+namespace TDDPractice.Test.Tests
 {
 	[TestClass]
-	public class ReadFileTest
+	public class ReadFileTests
 	{
+		[TestMethod]
+		public void DataHasEmptyLineTest()
+		{
+			var filePath = "TestFiles/1EmptyLine.txt";
+			Assert.IsTrue(FileHelpers.ReadFile(filePath).Count != 0);
+		}
+
 		[TestMethod]
 		public void FilePathValidTest()
 		{
